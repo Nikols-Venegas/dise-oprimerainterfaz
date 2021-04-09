@@ -1,0 +1,96 @@
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header {
+    height: 120px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header img {
+    padding-left: 20px;
+}
+.header b {
+    padding-left: 20px;
+}
+
+.formulario {
+    padding-left: 25px;
+    padding-top: 26px;
+    padding-bottom: 30px;
+}
+.redondeado {
+    background: url("https://lh3.googleusercontent.com/proxy/0EyOyULegKKZjIqdCLJHpMirDFV6XxpJoIjVpvR91tOYO33RLUH0H_eYCwXAAkrYYR794E_0FJLow3zjpiapDIeqpSzJBFRtvQ87bFCbK_KM21Y76YgXbq1mMIEjpBk_4A") no-repeat scroll 0 0 transparent;
+    background-position: right;
+    background-size: 40px;
+    border-radius: 8px;
+    height: 50px;
+    width: 255px;
+    border-color: white;
+    box-shadow: 2px 2px 5px #999;
+   
+}
+.redondeado1 {
+    background: url("http://assets.stickpng.com/images/5a4525b2546ddca7e1fcbc82.png") no-repeat scroll 0 0 transparent;
+    background-position: right;
+    background-size: 25px;
+    border-radius: 8px;
+    height: 50px;
+    width: 325px;
+    border-color: white;
+    box-shadow: 2px 2px 5px #999;
+}
+
+.edit{
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    align-content: center;
+    box-shadow: 2px 2px 5px #999;
+    border-color: white;
+    margin-right: 10px;
+}
+
+.botonsub{
+    border-radius: 5px;
+    height: 40px;
+    width: 315px;
+    color:white;
+    background-color:#FFA07A;
+    border-color: #FFA07A;
+}
+.text {
+    border-radius: 10px;
+    border-color: white;
+    height: 50px;
+    width: 325px;
+    box-shadow: 2px 2px 5px #999;
+    color:#777974;
+}
+.tipdel{
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100px;
+    width: 95px;
+    box-shadow: 2px 2px 5px #999;
+    margin-right: 20px;
+}
+.tipdel img{
+    height: 40px;
+    width: 40px;
+}
+.tipdel1{
+    
+    border-radius: 10px;
+    border-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100px;
+    width: 95px;
+    box-shadow: 2px 2px 5px #999;
+    margin-right: 20px;
+}
